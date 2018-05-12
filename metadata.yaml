@@ -1,0 +1,45 @@
+_repo: Good-Cheer-Stories-Every-Child-Should-Know_19909
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Dickinson, Asa Don
+    birthdate: 1876
+    deathdate: 1960
+    gutenberg_agent_id: '1678'
+    url: http://www.gutenberg.org/2009/agents/1678
+description: ''
+gutenberg_bookshelf: Children's Anthologies
+gutenberg_issued: '2006-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19909'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s stories, American'
+- !lcsh 'Thanksgiving Day -- Juvenile fiction'
+- !lcsh 'Short stories'
+tableOfContents: The Kingdom of the Greedy. By Stahl -- Thankful. By Freeman -- Beetle
+  Ring's Thanksgiving Mascot. By Stoddard -- Mistress Esteem Elliott's Molasses Cake.
+  By Clark -- The First Thanksgiving. By Blaisdell and Ball -- Thanksgiving at Todd's
+  Asylum. By Packard -- How We Kept Thanksgiving at Oldtown. By Stowe -- Wishbone
+  Valley. By Munkittrick -- Patem's Salmagundi. By Brooks -- Miss November's Dinner
+  Party. By Carr -- The Visit. By Lindsay -- The Story of Ruth and Naomi. Adapted
+  from the Bible -- Bert's Thanksgiving. By Trowbridge -- A Thanksgiving Story. By
+  Pingree -- John Inglefield's Thanksgiving. By Hawthorne -- How Obadiah Brought About
+  a Thanksgiving. By Leland -- The White Turkey's Wing. By Swet -- The Thanksgiving
+  Goose. By Brown -- An English Dinner of Thanksgiving. By Eliot -- A Novel Postman.
+  By Wheildon -- Ezra's Thanksgivin' Out West. By Field -- Chip's Thanksgiving. By
+  Donnell -- The Master of the Harvest. By Gatty -- A Thanksgiving Dinner. By Brett
+  -- Two Old Boys. By Colyar -- A Thanksgiving Dinner That Flew Away. By Butterworth
+  -- Mon-daw-min. By Schoolcraft -- A Mystery in the Kitchen. By Miller -- Who Ate
+  the Dolly's Dinner? By Curtis -- An Old-fashioned Thanksgiving. By Cooke -- 1800
+  and Froze to Death. By Stephens.
+title: Good Cheer Stories Every Child Should Know
+url: http://www.gutenberg.org/ebooks/19909
